@@ -37,9 +37,8 @@ This project analyzes chocolate sales performance across multiple dimensions inc
 - Revenue trends indicate steady growth over time.
 
 ## 📂 Files Included
-- Power BI (.pbix) file
 - Dashboard screenshot
-- Project documentation
+- Insights summary
 
 ## 💡 Learning Outcome
 This project strengthened my ability to transform raw data into meaningful insights and build business-focused dashboards using Power BI.
