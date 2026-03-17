@@ -37,6 +37,7 @@ This project analyzes chocolate sales performance across multiple dimensions inc
 - Revenue trends indicate steady growth over time.
 
 ## 📂 Files Included
+- Chocolate datasets
 - Dashboard screenshot
 - Insights summary
 
